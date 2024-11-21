@@ -1,9 +1,9 @@
 Payment Report
-Date: 2024-11-07
+Date: 2024-11-20
 
 Worker Weekly Gross Pay: 
-Kim: $400.00 (20 hrs at $20/hr)
-Dave: $800.00 (40 hrs at $20/hr)
+Kim: $400.00 (20 hours at $20/hour)
+Dave: $800.00 (40 hours at $20/hour)
 
 Summary Totals:
 Weekly Total: $1200.00
